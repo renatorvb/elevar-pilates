@@ -1,0 +1,7 @@
+# Fontes originais (não usadas pelo site — assets/ tem as versões otimizadas)
+/img/
+/video/
+
+# Sistema
+.DS_Store
+Thumbs.db
